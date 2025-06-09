@@ -1,4 +1,0 @@
-[02-Dec-2022 03:12:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/kk7w41kwiy4a/public_html/wp-admin/user/menu.php:10
-Stack trace:
-#0 {main}
-  thrown in /home/kk7w41kwiy4a/public_html/wp-admin/user/menu.php on line 10

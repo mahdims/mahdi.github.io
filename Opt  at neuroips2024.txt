@@ -1,0 +1,115 @@
+Optimization was one of the top five topics at NeurIPS 2024, reflecting a clear trend of increasing interest in this area compared to previous years. While optimization in machine learning often focuses on specific tasks like training neural networks (using algorithms such as gradient descent and its variants), my focus here is on optimization in a broader sense.
+
+This includes research exploring the use of AI methods for classical optimization problems, bridging the gap between traditional optimization techniques and modern AI-driven approaches. Below is a curated list of papers that stood out in this domain.
+
+Non-Linear Programming
+
+Dual Lagrangian Learning for Conic Optimization
+Poster  Paper
+
+BPQP A Differentiable Convex Optimization Framework for Efficient End-to-End Learning
+Poster  Paper
+
+IPM-LSTM A Learning-Based Interior Point Method for Solving Nonlinear Programs
+Poster  Paper
+
+Combinatorial Optimization
+
+Controlling Continuous Relaxation for Combinatorial Optimization
+Poster  Paper
+
+Learning to Handle Complex Constraints for Vehicle Routing Problems
+Poster  Paper
+
+ReEvo Large Language Models as Hyper-Heuristics with Reflective Evolution
+Poster  Paper
+
+Stochastic and Contextual Optimization
+
+Optimal Algorithms for Online Convex Optimization with Adversarial Constraints
+Poster  Paper
+
+Improved Algorithms for Contextual Dynamic Pricing
+Poster  Paper
+
+Conformal Inverse Optimization
+Poster  Paper
+
+Multi-Stage Predict+Optimize for (Mixed Integer) Linear Programs
+Poster  Paper
+
+There is No Silver Bullet Benchmarking Methods in Predictive Combinatorial Optimization
+Poster  Paper
+
+Regret Minimization in Stackelberg Games with Side Information
+Poster  Paper
+
+Linear Programming and MILP
+
+GLinSAT The General Linear Satisfiability Neural Network Layer
+Poster  Paper
+
+SymILO A Symmetry-Aware Learning Framework for Integer Linear Optimization
+Poster  Paper
+
+Learning Generalized Linear Programming Value Functions
+Poster   Paper
+
+Rethinking the Capacity of Graph Neural Networks for Branching Strategy
+Poster  Paper
+
+On the Power of Small-Size Graph Neural Networks for Linear Programming
+Poster  Paper
+
+Application-Specific Optimization
+
+Randomized Sparse Matrix Compression for Large-Scale Constrained Optimization in Cancer Radiotherapy
+Poster  Paper
+
+DistrictNet Decision-Aware Learning for Geographical Districting
+Poster  Paper
+
+Approximately Pareto-Optimal Solutions for Bi-Objective k-Clustering
+Poster  Paper
+
+Autoregressive Policy Optimization for Constrained Allocation Tasks
+Poster  Paper
+
+New Perspectives
+
+Optimization Algorithm Design via Electric Circuits
+Poster  Paper
+
+FERERO A Flexible Framework for Preference-Guided Multi-Objective Learning
+Poster  Paper
+
+Optimization for Machine Learning
+
+While there are many works related to optimization in machine learning, the following papers stood out for their relevance to OR techniques.
+
+Safe and Efficient A Primal-Dual Method for Offline Convex CMDPs under Partial Data Coverage
+Poster  Paper
+
+Gradient-Free Methods for Nonconvex Nonsmooth Stochastic Compositional Optimization
+Poster  Paper
+
+Can Learned Optimization Make Reinforcement Learning Less Difficult
+Poster  Paper
+
+Bayesian Nonparametrics Meets Data-Driven Distributionally Robust Optimization
+Poster  Paper
+
+SequentialAttention++ for Block Sparsification Differentiable Pruning Meets Combinatorial Optimization
+Poster  Paper
+
+ROIDICE Offline Return on Investment Maximization for Efficient Decision Making
+Poster  Paper
+
+Adaptive Proximal Gradient Method for Convex Optimization
+Poster  Paper
+
+Functional Bilevel Optimization for Machine Learning
+Poster  Paper
+
+First-Order Minimax Bilevel Optimization
+Poster  Paper

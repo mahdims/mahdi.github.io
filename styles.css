@@ -1,8 +1,59 @@
-body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #fdfdfd; color: #333; }
-header { background: #333; color: white; padding: 1em; text-align: center; }
-nav ul { list-style: none; padding: 0; margin: 0; display: flex; justify-content: center; background: #444; }
-nav li { margin: 0 1em; }
-nav a { color: white; text-decoration: none; }
-main { padding: 2em; max-width: 800px; margin: auto; }
-footer { background: #333; color: white; text-align: center; padding: 1em; margin-top: 2em; }
-article { margin-bottom: 2em; }
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #fdfdfd;
+    color: #333;
+    line-height: 1.6;
+}
+
+header {
+    background: #cd2653;
+    color: #fff;
+    padding: 1em 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    background: #333;
+}
+
+nav li {
+    margin: 0 1em;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 2em;
+    max-width: 800px;
+    margin: auto;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+    margin-top: 2em;
+}
+
+article {
+    margin-bottom: 2em;
+}
+
